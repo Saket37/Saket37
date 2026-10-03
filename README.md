@@ -29,4 +29,14 @@ val saket = Developer(
   <img src="https://skillicons.dev/icons?i=kotlin,swift,java,androidstudio,gradle,spring,php,laravel,mysql,redis,firebase,python,raspberrypi,git&theme=dark" alt="Kotlin, Swift, Java, Android Studio, Gradle, Spring, PHP, Laravel, MySQL, Redis, Firebase, Python, Raspberry Pi, Git" />
 </p>
 
+### 📊 Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saket37&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=3DDC84&text_color=c9d1d9&icon_color=3DDC84&ring_color=3DDC84&border_color=30363d" alt="Saket's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket37&layout=compact&exclude_repo=PiBot,telegram-raspberry-pi-bot,Expense.ly,Edge-Detection&bg_color=0d1117&title_color=3DDC84&text_color=c9d1d9&icon_color=3DDC84&ring_color=3DDC84&border_color=30363d" alt="Most used languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Saket37&background=0D1117&border=30363D&stroke=30363D&ring=3DDC84&fire=3DDC84&currStreakNum=3DDC84&currStreakLabel=3DDC84&sideNums=E6EDF3&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+</p>
+
 <p align="center"><sub><code>&gt;_ built with caffeine &amp; Kotlin</code></sub></p>
