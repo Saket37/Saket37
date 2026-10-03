@@ -32,7 +32,7 @@ val saket = Developer(
 ### 📊 Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saket37&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=3DDC84&text_color=c9d1d9&icon_color=3DDC84&ring_color=3DDC84&border_color=30363d" alt="Saket's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saket37&show_icons=true&include_all_commits=true&hide_rank=true&bg_color=0d1117&title_color=3DDC84&text_color=c9d1d9&icon_color=3DDC84&ring_color=3DDC84&border_color=30363d" alt="Saket's GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket37&layout=compact&exclude_repo=PiBot,telegram-raspberry-pi-bot,Expense.ly,Edge-Detection&bg_color=0d1117&title_color=3DDC84&text_color=c9d1d9&icon_color=3DDC84&ring_color=3DDC84&border_color=30363d" alt="Most used languages" />
 </p>
 <p align="center">
