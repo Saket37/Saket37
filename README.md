@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://saketanand.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=3DDC84&center=true&vCenter=true&width=600&lines=Software+engineer+%40+eBay;Android+%C2%B7+iOS+%C2%B7+Backend;Kotlin+%C2%B7+Swift+%C2%B7+Compose+%C2%B7+KMP;I+make+apps+that+feel+buttery+smooth+%E2%9A%A1" alt="Software engineer @ eBay · Android · iOS · Backend" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=3DDC84&center=true&vCenter=true&width=600&lines=Software+engineer+%40+eBay;Android+%C2%B7+iOS+%C2%B7+Backend;Kotlin+%C2%B7+Swift+%C2%B7+Java+%C2%B7+Compose+%C2%B7+KMP;I+make+apps+that+feel+buttery+smooth+%E2%9A%A1" alt="Software engineer @ eBay · Android · iOS · Backend" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@ val saket = Developer(
     workingAcross = listOf("Android", "iOS", "Backend"),
     location = "Bengaluru, India",
     previously = "Intern → Lead Android Developer @ MathonGo",
-    stack = listOf("Kotlin", "Swift", "Jetpack Compose", "KMP", "Spring Boot"),
+    stack = listOf("Kotlin", "Swift", "Java", "Jetpack Compose", "KMP", "Spring Boot"),
     currentlyBuilding = "Setwise, a workout tracker with on-device AI",
     sideQuest = "a Telegram bot that babysits my Raspberry Pi",
 )
@@ -44,7 +44,7 @@ val saket = Developer(
 ### 🧰 Toolkit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,swift,androidstudio,gradle,spring,php,laravel,mysql,redis,firebase,python,raspberrypi,git&theme=dark" alt="Kotlin, Swift, Android Studio, Gradle, Spring, PHP, Laravel, MySQL, Redis, Firebase, Python, Raspberry Pi, Git" />
+  <img src="https://skillicons.dev/icons?i=kotlin,swift,java,androidstudio,gradle,spring,php,laravel,mysql,redis,firebase,python,raspberrypi,git&theme=dark" alt="Kotlin, Swift, Java, Android Studio, Gradle, Spring, PHP, Laravel, MySQL, Redis, Firebase, Python, Raspberry Pi, Git" />
 </p>
 
 <p align="center"><sub><code>&gt;_ built with caffeine &amp; Kotlin</code></sub></p>
