@@ -20,7 +20,6 @@ val saket = Developer(
     location = "Bengaluru, India",
     previously = "Intern → Lead Android Developer @ MathonGo",
     stack = listOf("Kotlin", "Swift", "Java", "Jetpack Compose", "KMP", "Spring Boot"),
-    sideQuest = "a Telegram bot that babysits my Raspberry Pi",
 )
 ```
 
