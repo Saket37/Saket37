@@ -20,26 +20,9 @@ val saket = Developer(
     location = "Bengaluru, India",
     previously = "Intern → Lead Android Developer @ MathonGo",
     stack = listOf("Kotlin", "Swift", "Java", "Jetpack Compose", "KMP", "Spring Boot"),
-    currentlyBuilding = "Setwise, a workout tracker with on-device AI",
     sideQuest = "a Telegram bot that babysits my Raspberry Pi",
 )
 ```
-
-### 🔨 Now building
-
-**[Setwise](https://github.com/Saket37/Setwise)**: an Android workout tracker that remembers what you lifted last time. Gemini Nano runs on-device for summaries and quick-logging ("3 sets of bench at 60 for 8"), so your training data never leaves the phone.
-
-`Compose` · `Room` · `Koin` · `WorkManager` · `Gemini Nano`
-
-### 📌 Featured
-
-| Project | What it is |
-|---|---|
-| [**RunTracker**](https://github.com/Saket37/RunTracker) | Multi-module run tracker with Ktor, Room and Gradle convention plugins |
-| [**Expense-Tracker**](https://github.com/Saket37/Expense-Tracker) | Offline-first expense tracker with charts, reports and PDF export |
-| [**CustomNetworkConnection**](https://github.com/Saket37/CustomNetworkConnection) | A Retrofit-style HTTP client built from scratch on Java dynamic proxies |
-| [**Clinicio**](https://github.com/Saket37/Clinicio) | Doctor-appointment booking: Android app + Laravel backend |
-| [**Pi Telegram Bot**](https://github.com/Saket37/telegram-raspberry-pi-bot) | Monitors my Raspberry Pi (temps, services, Docker) from Telegram |
 
 ### 🧰 Toolkit
 
